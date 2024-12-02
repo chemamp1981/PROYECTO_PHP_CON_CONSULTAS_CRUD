@@ -5,3 +5,4 @@ Creación de una página web con html, css, JavaScript, php, Mysql con la temati
 El proyecto esta dividido en tres partes en modo visitante, usuario y administrador. 
 Utilizando consultas a una base de datos MySQL. 
 Las consultas con el metodo CRUD creación, lectura, actualización y eliminación.
+El proyecto aún presenta algunos errores a corregir.
